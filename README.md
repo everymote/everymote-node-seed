@@ -23,3 +23,9 @@ Following icons for things are avalible:
 - jukeBox <img src="http://m.everymote.com/images/icons/client/jukeBox.png" alt="jukeBox"  width="20px" height="20px">
 - list_view <img src="http://m.everymote.com/images/icons/client/list_view.png" alt="list_view"  width="20px" height="20px">
 - webur <img src="http://m.everymote.com/images/icons/client/weburl.png" alt="weburl"  width="20px" height="20px">
+
+Action controles
+---------------
+The following action controlers are avalible:
+- button {"type":"button", "name":"My action", "id":"1"}
+- range {"type":"range", "name":"Dim", "id":"2", "min":0, "max":255, "curentState":255}
